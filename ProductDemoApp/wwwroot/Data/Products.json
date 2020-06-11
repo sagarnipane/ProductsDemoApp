@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "RAM",
+    "Price": 2000.5,
+    "Quantity": 5,
+    "IsGSTApplicable": true,
+    "PurchaseDate": "2020/06/11",
+    "ExpiryDate": "2020/06/12",
+    "Color": 1
+  },
+  {
+    "Name": "Mouse",
+    "Price": 500.7,
+    "Quantity": 15,
+    "IsGSTApplicable": true,
+    "PurchaseDate": "2020/06/11",
+    "ExpiryDate": "2020/06/18",
+    "Color": 5
+  }
+]
